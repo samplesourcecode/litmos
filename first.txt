@@ -10,3 +10,6 @@ first
 file 
 in 
 git 
+follow 
+my 
+repo
